@@ -1,5 +1,5 @@
 '''
-急上昇動画を${video_num}件取得して、json形式で保存する。
+急上昇動画を${video_num}件取得して、json形式で保存するプログラム
 
 '''
 import googleapiclient.discovery  # pip install google-api-python-client

@@ -1,0 +1,439 @@
+{
+	"kind": "youtube#videoListResponse",
+	"etag": "lrWYRDdGJf1TVqUkDpXnP4IMnss",
+	"items": [
+		{
+			"kind": "youtube#video",
+			"etag": "xSoF4W4ucMB60Q-01CtigVq5HDs",
+			"id": "M2cckDmNLMI",
+			"snippet": {
+				"publishedAt": "2022-10-25T13:00:11Z",
+				"channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+				"title": "米津玄師 Kenshi Yonezu - KICKBACK",
+				"description": "TVアニメ『チェンソーマン』OPテーマ　 CHAINSAWMAN OPENING THEME\n\n米津玄師　KICK BACK\nListen here 　https://smej.lnk.to/KICKBACK/\nPackage　　 https://lnk.to/KICKBACK_CD\nOfficial Site　https://reissuerecords.net/kickback/\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nKENSHI YONEZU “KICK BACK”\n\nMusic & Lyrics　 Kenshi Yonezu\nArranged by   　  KenshiYonezu , Daiki Tsuneta\n\nContains a sample of \"SOUDA! We're ALIVE\"  Lyrics & Music by TSUNKU  ©2002 by UP FRONT MUSIC INC. / TV TOKYO Music, Inc.\n\n＜Lyric＞\nランドリー今日はガラ空きでラッキーデイ\nLaundromat’s empty, must be my lucky day\nかったりい油汚れもこれでバイバイ\nIt’s about time I said buh-bye to this crud\n\n誰だ誰だ頭の中 呼びかける声は\nWho is it, who’s whispering in my head,\nあれが欲しいこれが欲しいと歌っている\nthe greedy voices keep singing, begging for more\n\n幸せになりたい 楽して生きていたい\nI just want to be satisfied, doing the bare minimum\nこの手に掴みたい あなたのその胸の中\nI want to grab that heart of yours with my bare hands\n\nハッピーで埋め尽くして レストインピースまで行こうぜ\nLet’s fill it up with “happy,” until we rest in peace\nいつかみた地獄もいいところ 愛をばら撒いて\nThat glimpse of hell isn’t so bad, scatter it with love\nアイラブユー貶してくれ 全部奪って笑ってくれマイハニー\nI love you, please humiliate me. Rob me of my dignity and laugh my honey\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんか忘れちゃってんだ\nI think my screw’s coming loose\n\n4443で外れる炭酸水\n4443, another opportunity lost\nハングリー拗らせて吐きそうな人生\nI’ve been so hungry to the core, I could vomit\n\n「止まない雨はない」より先に その傘をくれよ\n“Rainy days never stay”? Hand over your umbrella\nあれが欲しい これが欲しい 全て欲しい ただ虚しい\nGive me all of it, I want it all. The more I crave, an empty void consumes me\n\n幸せになりたい 楽して生きていたい\nI just want to be satisfied, doing the bare minimum\n全部滅茶苦茶にしたい 何もかも消し去りたい \nI want to sabotage it all, wipe it out clean\nあなたのその胸の中\nEven that heart of yours\n\nラッキーで埋め尽くして レストインピースまで行こうぜ\nLet’s fill it up with luck, go until we rest in peace\n良い子だけ迎える天国じゃ どうも生きらんない\nA heaven only for the righteous? That’s no way to live\nアイラブユー貶して奪って笑ってくれマイハニー\nI love you, please humiliate me. Rob me of my dignity and laugh, my honey\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんか忘れちゃってんだ\nI think my screw’s coming loose\n\nハッピー ラッキー こんにちはベイビー  (ハッピー ラッキー こんにちはベイビー)\nHappy. Lucky. Konnichiwa baby                [ Happy. Lucky. Konnichiwa baby ]\n良い子でいたい そりゃつまらない　  　(あなたの未来 そりゃつまらない)\nUpright and noble? That’s boring              [ A future like that, so boring ]\nハッピー ラッキー こんにちはベイビーソースイート\nHappy. Lucky. Konnichiwa baby, so sweet\n(ハッピー ラッキー こんにちはベイビーソースイート)\n[ Happy. Lucky. Konnichiwa baby, so sweet ]\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんかすごい良い感じ\nI’m getting a kick out of it\n\n\n#KenshiYonezu #KICKBACK  #chainsawman\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTwitter 　　　 https://twitter.com/hachi_08\nInstagram 　   https://www.instagram.com/hachi_08/\nTikTok              https://www.tiktok.com/@kenshiyonezu_08\nYouTube          https://www.youtube.com/c/KenshiYonezuHACHI/\n\nHP　　　　    http://reissuerecords.net\nMerch　　　  https://shop.kenshiyonezu.jp\n\nStaff Twitter 　      https://twitter.com/reissuerecords\nStaff Instagram     https://www.instagram.com/reissue_records",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/M2cckDmNLMI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/M2cckDmNLMI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/M2cckDmNLMI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/M2cckDmNLMI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/M2cckDmNLMI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Kenshi Yonezu  米津玄師",
+				"tags": [
+					"米津玄師",
+					"ハチ",
+					"Kenshi Yonezu",
+					"HACHI",
+					"オリジナル",
+					"ORIGINAL",
+					"REISSUE RECORDS"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "米津玄師 Kenshi Yonezu - KICKBACK",
+					"description": "TVアニメ『チェンソーマン』OPテーマ　 CHAINSAWMAN OPENING THEME\n\n米津玄師　KICK BACK\nListen here 　https://smej.lnk.to/KICKBACK/\nPackage　　 https://lnk.to/KICKBACK_CD\nOfficial Site　https://reissuerecords.net/kickback/\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nKENSHI YONEZU “KICK BACK”\n\nMusic & Lyrics　 Kenshi Yonezu\nArranged by   　  KenshiYonezu , Daiki Tsuneta\n\nContains a sample of \"SOUDA! We're ALIVE\"  Lyrics & Music by TSUNKU  ©2002 by UP FRONT MUSIC INC. / TV TOKYO Music, Inc.\n\n＜Lyric＞\nランドリー今日はガラ空きでラッキーデイ\nLaundromat’s empty, must be my lucky day\nかったりい油汚れもこれでバイバイ\nIt’s about time I said buh-bye to this crud\n\n誰だ誰だ頭の中 呼びかける声は\nWho is it, who’s whispering in my head,\nあれが欲しいこれが欲しいと歌っている\nthe greedy voices keep singing, begging for more\n\n幸せになりたい 楽して生きていたい\nI just want to be satisfied, doing the bare minimum\nこの手に掴みたい あなたのその胸の中\nI want to grab that heart of yours with my bare hands\n\nハッピーで埋め尽くして レストインピースまで行こうぜ\nLet’s fill it up with “happy,” until we rest in peace\nいつかみた地獄もいいところ 愛をばら撒いて\nThat glimpse of hell isn’t so bad, scatter it with love\nアイラブユー貶してくれ 全部奪って笑ってくれマイハニー\nI love you, please humiliate me. Rob me of my dignity and laugh my honey\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんか忘れちゃってんだ\nI think my screw’s coming loose\n\n4443で外れる炭酸水\n4443, another opportunity lost\nハングリー拗らせて吐きそうな人生\nI’ve been so hungry to the core, I could vomit\n\n「止まない雨はない」より先に その傘をくれよ\n“Rainy days never stay”? Hand over your umbrella\nあれが欲しい これが欲しい 全て欲しい ただ虚しい\nGive me all of it, I want it all. The more I crave, an empty void consumes me\n\n幸せになりたい 楽して生きていたい\nI just want to be satisfied, doing the bare minimum\n全部滅茶苦茶にしたい 何もかも消し去りたい \nI want to sabotage it all, wipe it out clean\nあなたのその胸の中\nEven that heart of yours\n\nラッキーで埋め尽くして レストインピースまで行こうぜ\nLet’s fill it up with luck, go until we rest in peace\n良い子だけ迎える天国じゃ どうも生きらんない\nA heaven only for the righteous? That’s no way to live\nアイラブユー貶して奪って笑ってくれマイハニー\nI love you, please humiliate me. Rob me of my dignity and laugh, my honey\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんか忘れちゃってんだ\nI think my screw’s coming loose\n\nハッピー ラッキー こんにちはベイビー  (ハッピー ラッキー こんにちはベイビー)\nHappy. Lucky. Konnichiwa baby                [ Happy. Lucky. Konnichiwa baby ]\n良い子でいたい そりゃつまらない　  　(あなたの未来 そりゃつまらない)\nUpright and noble? That’s boring              [ A future like that, so boring ]\nハッピー ラッキー こんにちはベイビーソースイート\nHappy. Lucky. Konnichiwa baby, so sweet\n(ハッピー ラッキー こんにちはベイビーソースイート)\n[ Happy. Lucky. Konnichiwa baby, so sweet ]\n努力 未来 A BEAUTIFUL STAR\nGRIND, FUTURE, A BEAUTIFUL STAR\nなんかすごい良い感じ\nI’m getting a kick out of it\n\n\n#KenshiYonezu #KICKBACK  #chainsawman\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTwitter 　　　 https://twitter.com/hachi_08\nInstagram 　   https://www.instagram.com/hachi_08/\nTikTok              https://www.tiktok.com/@kenshiyonezu_08\nYouTube          https://www.youtube.com/c/KenshiYonezuHACHI/\n\nHP　　　　    http://reissuerecords.net\nMerch　　　  https://shop.kenshiyonezu.jp\n\nStaff Twitter 　      https://twitter.com/reissuerecords\nStaff Instagram     https://www.instagram.com/reissue_records"
+				},
+				"defaultAudioLanguage": "ja"
+			},
+			"contentDetails": {
+				"duration": "PT3M48S",
+				"dimension": "2d",
+				"definition": "hd",
+				"caption": "true",
+				"licensedContent": true,
+				"contentRating": {},
+				"projection": "rectangular"
+			},
+			"statistics": {
+				"viewCount": "4634876",
+				"likeCount": "293907",
+				"favoriteCount": "0",
+				"commentCount": "16579"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "sB5sSfVYC2SvAl--JfuHAxmKLis",
+			"id": "HEwAiwttN10",
+			"snippet": {
+				"publishedAt": "2022-10-25T15:30:03Z",
+				"channelId": "UCjfAEJZdfbIjVHdo5yODfyQ",
+				"title": "『チェンソーマン』第３話ノンクレジットエンディング / CHAINSAW MAN #3 Ending│マキシマム ザ ホルモン 「刃渡り2億センチ」",
+				"description": "挿入歌 / 第3話 エンディング・テーマ\nマキシマム ザ ホルモン 「刃渡り2億センチ」\n作詞・作曲　マキシマムザ亮君\n(Warner Music Japan)\n\n楽曲配信リンク：https://mth.lnk.to/HAWATARINIOKUCENTI\n（※「マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル」にて配信）\n\n\n2022年10月11日(火)24:00より テレビ東京他にて放送開始\n2022年10月11日(火)25:00よりPrime Videoにて最速配信\n2022年10月12日(水)25:00より各プラットフォームにて見逃し配信\n\n漫画第二部「少年ジャンプ＋」にて連載中！\n\n\n▶イントロダクション\n『チェンソーの悪魔』ポチタと共にデビルハンターとして暮らす少年デンジ。\n親が遺した借金返済のため、貧乏な生活を送る中、\n裏切りに遭い殺されてしまう。薄れる意識の中、デンジはポチタと契約し、\n悪魔の心臓 を持つもの 『 チェンソーマン 』として蘇る ── 。\n\n\n【スタッフ】\n原作：藤本タツキ（集英社「少年ジャンプ＋」連載）\n監督：中山 竜\n脚本：瀬古浩司\nキャラクターデザイン：杉山和隆\nアクションディレクター：吉原達矢\nチーフ演出：中園真登\n悪魔デザイン：押山清高\n美術監督：竹田悠介\n色彩設計：中野尚美\n撮影監修：宮原洋平\n音楽：牛尾憲輔\n\nオープニング・テーマ：米津玄師「KICK BACK」\n挿入歌：マキシマム ザ ホルモン「刃渡り2億センチ」\nエンディング・テーマ：\nano「ちゅ、多様性。」\nEve「ファイトソング」\nAimer「Deep down」\nKanaria「大脳的なランデブー」\nsyudou「インザバックルーム」\n女王蜂「バイオレンス」\nずっと真夜中でいいのに。「残機」\nTK from 凛として時雨「first death」\nTOOBOE「錠剤」\nVaundy「CHAINSAW BLOOD」\nPEOPLE 1「DOGLAND」\nマキシマム ザ ホルモン「刃渡り2億センチ」\n\nアニメーションプロデューサー　瀬下恵介\n制作　MAPPA\n \n【キャスト】\nデンジ：戸谷菊之介\nポチタ：井澤詩織 \nマキマ：楠木ともり\n早川アキ：坂田将吾\nパワー：ファイルーズあい\n姫野：伊瀬茉莉也\n東山コベニ：高橋花林\n荒井ヒロカズ：八代 拓\n岸辺：津田健次郎\n天使の悪魔： 内田真礼\nサメの魔人：花江夏樹\n暴力の魔人：内田夕夜\n蜘蛛の悪魔：後藤沙緒里\n沢渡アカネ：大地葉\nサムライソード：濱野大輝\n\n#chainsawman \n#mappa \n#チェンソーマン",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/HEwAiwttN10/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/HEwAiwttN10/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/HEwAiwttN10/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/HEwAiwttN10/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/HEwAiwttN10/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "MAPPA CHANNEL",
+				"tags": [
+					"チェンソーマン",
+					"CHAINSAWMAN",
+					"ジャンプ",
+					"藤本タツキ",
+					"MAPPA",
+					"アニメ",
+					"ANIME",
+					"戸谷菊之介",
+					"楠木ともり",
+					"坂田将吾",
+					"ファイルーズあい",
+					"Chainsaw man",
+					"Anime Trailer",
+					"ファイアパンチ",
+					"ルックバック",
+					"Official Trailer",
+					"アニメ PV",
+					"チェ",
+					"チェンソー",
+					"田中脊髄剣",
+					"デンジ",
+					"マキマ",
+					"パワー",
+					"denji",
+					"makima",
+					"power",
+					"aki",
+					"早川アキ",
+					"牛尾憲輔",
+					"呪術廻戦",
+					"aot",
+					"瀬古浩司",
+					"中山竜",
+					"ジャンプ+",
+					"tatsuki fujimoto",
+					"ryu nakayama",
+					"米津玄師",
+					"常田大希",
+					"マキシマムザホルモン",
+					"vaundy",
+					"ずっと真夜中でいいのに",
+					"ずとまよ",
+					"people1",
+					"女王蜂",
+					"凛として時雨",
+					"syudou",
+					"Aimer",
+					"Eve",
+					"ano",
+					"津田健次郎",
+					"井澤詩織",
+					"伊瀬茉莉也",
+					"高橋花林",
+					"八代拓",
+					"TOOBOE",
+					"コベニ",
+					"岸辺",
+					"姫野",
+					"ポチタ",
+					"刃渡り2億センチ",
+					"ホルモン"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "『チェンソーマン』第３話ノンクレジットエンディング / CHAINSAW MAN #3 Ending│マキシマム ザ ホルモン 「刃渡り2億センチ」",
+					"description": "挿入歌 / 第3話 エンディング・テーマ\nマキシマム ザ ホルモン 「刃渡り2億センチ」\n作詞・作曲　マキシマムザ亮君\n(Warner Music Japan)\n\n楽曲配信リンク：https://mth.lnk.to/HAWATARINIOKUCENTI\n（※「マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル」にて配信）\n\n\n2022年10月11日(火)24:00より テレビ東京他にて放送開始\n2022年10月11日(火)25:00よりPrime Videoにて最速配信\n2022年10月12日(水)25:00より各プラットフォームにて見逃し配信\n\n漫画第二部「少年ジャンプ＋」にて連載中！\n\n\n▶イントロダクション\n『チェンソーの悪魔』ポチタと共にデビルハンターとして暮らす少年デンジ。\n親が遺した借金返済のため、貧乏な生活を送る中、\n裏切りに遭い殺されてしまう。薄れる意識の中、デンジはポチタと契約し、\n悪魔の心臓 を持つもの 『 チェンソーマン 』として蘇る ── 。\n\n\n【スタッフ】\n原作：藤本タツキ（集英社「少年ジャンプ＋」連載）\n監督：中山 竜\n脚本：瀬古浩司\nキャラクターデザイン：杉山和隆\nアクションディレクター：吉原達矢\nチーフ演出：中園真登\n悪魔デザイン：押山清高\n美術監督：竹田悠介\n色彩設計：中野尚美\n撮影監修：宮原洋平\n音楽：牛尾憲輔\n\nオープニング・テーマ：米津玄師「KICK BACK」\n挿入歌：マキシマム ザ ホルモン「刃渡り2億センチ」\nエンディング・テーマ：\nano「ちゅ、多様性。」\nEve「ファイトソング」\nAimer「Deep down」\nKanaria「大脳的なランデブー」\nsyudou「インザバックルーム」\n女王蜂「バイオレンス」\nずっと真夜中でいいのに。「残機」\nTK from 凛として時雨「first death」\nTOOBOE「錠剤」\nVaundy「CHAINSAW BLOOD」\nPEOPLE 1「DOGLAND」\nマキシマム ザ ホルモン「刃渡り2億センチ」\n\nアニメーションプロデューサー　瀬下恵介\n制作　MAPPA\n \n【キャスト】\nデンジ：戸谷菊之介\nポチタ：井澤詩織 \nマキマ：楠木ともり\n早川アキ：坂田将吾\nパワー：ファイルーズあい\n姫野：伊瀬茉莉也\n東山コベニ：高橋花林\n荒井ヒロカズ：八代 拓\n岸辺：津田健次郎\n天使の悪魔： 内田真礼\nサメの魔人：花江夏樹\n暴力の魔人：内田夕夜\n蜘蛛の悪魔：後藤沙緒里\n沢渡アカネ：大地葉\nサムライソード：濱野大輝\n\n#chainsawman \n#mappa \n#チェンソーマン"
+				},
+				"defaultAudioLanguage": "en"
+			},
+			"contentDetails": {
+				"duration": "PT1M31S",
+				"dimension": "2d",
+				"definition": "hd",
+				"caption": "false",
+				"licensedContent": true,
+				"contentRating": {},
+				"projection": "rectangular"
+			},
+			"statistics": {
+				"viewCount": "3182963",
+				"likeCount": "183930",
+				"favoriteCount": "0",
+				"commentCount": "8078"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_I10mJ6-AGK62DQwqeZfUbD7u3c",
+			"id": "TBYokdM2osQ",
+			"snippet": {
+				"publishedAt": "2022-10-26T10:01:00Z",
+				"channelId": "UCbqtn4vldMg5HjKims7MWfw",
+				"title": "Breaking Down6オーディションの裏側に密着【後編】",
+				"description": "◯一言\n　女子がすごい。\n\n▼オンライン視聴チケット/会場チケットの購入はこちらから\nhttps://breakingdown.jp\n\n▼スポンサー応募・詳細はこちら\nhttps://backstage.inc/breakingdown/sp\n\n▼Breaking Downの公式切り抜き配信者募集中\nhttps://docs.google.com/forms/d/e/1FAIpQLSeEbOdivMAX_o4HdQVxRpghUP6BsMfSPKhnaFfVR4anPIbJcw/viewform\n\n※Breaking Downでは各プラットフォームと連携して違法動画の対策と撲滅をしていきます。悪質な違法アップロードに関しては法的措置も行います。\n\n▼Breaking Down 6 メインスポンサー 喧嘩道様のアプリはこちら\n\n喧嘩道のインストールはこちら\nhttp://sns-entertainment.jp/DL_kenkado.html\n\n招待コードの入力方法\nhttp://sns-entertainment.jp/breakingdownDL1/\n\n▼Breaking Down 6ゴールドスポンサーのご紹介\n\n「鬼丸ホーム」\nhttp://www.onihome.co.jp/\n\n「育毛剤のVO-VO-」\nhttps://vovo-official.jp\n\n「３Dファントム」\nhttps://3d-phantom.com\n\nコメント欄固定コメントは下記になります。\n＝＝＝＝＝\n\n▼オンライン視聴チケット/会場チケットの購入はこちらから\nhttps://breakingdown.jp\n\n▼スポンサー応募・詳細はこちら\nhttps://backstage.inc/breakingdown/sp\n\n◆WAVERS〜革命の海〜 (オンラインコミュニティ)\n　https://linktr.ee/wavers_kai_asakura\n\n◆ブランド『EN MER』\n　https://enmer.net/\n\n◆公式\n　LINE友達追加：https://lin.ee/1TjhDnN\n　グッズ：https://shop.kai-asakura.com/\n\n◆SNS\n　朝倉海\n　ーinstagram：https://instagram.com/kai_asakura_/\n　ーtwitter：https://twitter.com/kai_1031_\n　ーTikTok：https://www.tiktok.com/@kaiasakura_\n　サイトウ\n　ーinstagram：https://www.instagram.com/saito_0327_/\n　ーtwitter：https://twitter.com/Saito_0327_\n　ーTikTok：https://www.tiktok.com/@saito_0327\n　オオモリ\n　ーinstagram：https://www.instagram.com/e_c_omori/\n　ーtwitter：https://twitter.com/e_c_omori\n　ーTikTok：https://www.tiktok.com/@e_c_omori\n\n◆YouTube\n　サブチャンネル：https://www.youtube.com/channel/UCEReo3ko80VlilHyIM-Lm9Q?sub_confirmation=1\n　instagram：https://instagram.com/kai_ch_youtube\n　twitter：https://twitter.com/kai_ch_youtube\n\n◆お仕事の相談・お問い合わせはこちらまで\n　E-Mail：kai.toiawase@gmail.com\n\n◆音源は以下のサービスを利用しています。\n　H/MIX Gallery：http://www.hmix.net/\n　Music is VFR：http://musicisvfr.com/free/license.html\n　MusMus：http://musmus.main.jp/\n　効果音ラボ：https://soundeffect-lab.info \n　DOVA-SYNDROME：https://dova-s.jp\n　音楽の卵：http://ontama-m.com\n　ニコニ・コモンズ：https://commons.nicovideo.jp/materials/\n　ED協力：KICS(https://www.youtube.com/channel/UCxE78QWWRGsgV4v-vZHErog?sub_confirmation=1)\n\n#朝倉海#KAIChannel#かいちゃんねる#asakurakai",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/TBYokdM2osQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/TBYokdM2osQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/TBYokdM2osQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/TBYokdM2osQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/TBYokdM2osQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "KAI Channel / 朝倉海",
+				"tags": [
+					"朝倉海",
+					"KAIChannel",
+					"かいちゃんねる"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Breaking Down6オーディションの裏側に密着【後編】",
+					"description": "◯一言\n　女子がすごい。\n\n▼オンライン視聴チケット/会場チケットの購入はこちらから\nhttps://breakingdown.jp\n\n▼スポンサー応募・詳細はこちら\nhttps://backstage.inc/breakingdown/sp\n\n▼Breaking Downの公式切り抜き配信者募集中\nhttps://docs.google.com/forms/d/e/1FAIpQLSeEbOdivMAX_o4HdQVxRpghUP6BsMfSPKhnaFfVR4anPIbJcw/viewform\n\n※Breaking Downでは各プラットフォームと連携して違法動画の対策と撲滅をしていきます。悪質な違法アップロードに関しては法的措置も行います。\n\n▼Breaking Down 6 メインスポンサー 喧嘩道様のアプリはこちら\n\n喧嘩道のインストールはこちら\nhttp://sns-entertainment.jp/DL_kenkado.html\n\n招待コードの入力方法\nhttp://sns-entertainment.jp/breakingdownDL1/\n\n▼Breaking Down 6ゴールドスポンサーのご紹介\n\n「鬼丸ホーム」\nhttp://www.onihome.co.jp/\n\n「育毛剤のVO-VO-」\nhttps://vovo-official.jp\n\n「３Dファントム」\nhttps://3d-phantom.com\n\nコメント欄固定コメントは下記になります。\n＝＝＝＝＝\n\n▼オンライン視聴チケット/会場チケットの購入はこちらから\nhttps://breakingdown.jp\n\n▼スポンサー応募・詳細はこちら\nhttps://backstage.inc/breakingdown/sp\n\n◆WAVERS〜革命の海〜 (オンラインコミュニティ)\n　https://linktr.ee/wavers_kai_asakura\n\n◆ブランド『EN MER』\n　https://enmer.net/\n\n◆公式\n　LINE友達追加：https://lin.ee/1TjhDnN\n　グッズ：https://shop.kai-asakura.com/\n\n◆SNS\n　朝倉海\n　ーinstagram：https://instagram.com/kai_asakura_/\n　ーtwitter：https://twitter.com/kai_1031_\n　ーTikTok：https://www.tiktok.com/@kaiasakura_\n　サイトウ\n　ーinstagram：https://www.instagram.com/saito_0327_/\n　ーtwitter：https://twitter.com/Saito_0327_\n　ーTikTok：https://www.tiktok.com/@saito_0327\n　オオモリ\n　ーinstagram：https://www.instagram.com/e_c_omori/\n　ーtwitter：https://twitter.com/e_c_omori\n　ーTikTok：https://www.tiktok.com/@e_c_omori\n\n◆YouTube\n　サブチャンネル：https://www.youtube.com/channel/UCEReo3ko80VlilHyIM-Lm9Q?sub_confirmation=1\n　instagram：https://instagram.com/kai_ch_youtube\n　twitter：https://twitter.com/kai_ch_youtube\n\n◆お仕事の相談・お問い合わせはこちらまで\n　E-Mail：kai.toiawase@gmail.com\n\n◆音源は以下のサービスを利用しています。\n　H/MIX Gallery：http://www.hmix.net/\n　Music is VFR：http://musicisvfr.com/free/license.html\n　MusMus：http://musmus.main.jp/\n　効果音ラボ：https://soundeffect-lab.info \n　DOVA-SYNDROME：https://dova-s.jp\n　音楽の卵：http://ontama-m.com\n　ニコニ・コモンズ：https://commons.nicovideo.jp/materials/\n　ED協力：KICS(https://www.youtube.com/channel/UCxE78QWWRGsgV4v-vZHErog?sub_confirmation=1)\n\n#朝倉海#KAIChannel#かいちゃんねる#asakurakai"
+				},
+				"defaultAudioLanguage": "ja"
+			},
+			"contentDetails": {
+				"duration": "PT13M34S",
+				"dimension": "2d",
+				"definition": "hd",
+				"caption": "false",
+				"licensedContent": true,
+				"contentRating": {},
+				"projection": "rectangular"
+			},
+			"statistics": {
+				"viewCount": "1127705",
+				"likeCount": "12731",
+				"favoriteCount": "0",
+				"commentCount": "1273"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "VDMbQnIXIDhvxcCYXLZcvEeh8-c",
+			"id": "wFg4n2H38gw",
+			"snippet": {
+				"publishedAt": "2022-10-26T10:00:40Z",
+				"channelId": "UCGlWnxRgmii2-InQLp8HmiA",
+				"title": "念願だった「もちまる」ちゃんに会えました！",
+				"description": "【もちまるちゃんの動画】\n■しょこたんに誕生日をお祝いしてもらった猫が大喜びでこうなりました笑\nhttps://youtu.be/ngeZ4PuJOHI\n\n■もちまる様の部屋\nhttps://youtube.com/c/%E3%82%82%E3%81%A1%E6%A7%98%E3%81%AE%E9%83%A8%E5%B1%8B\n\n念願のコラボ！ずっと会いたいと思ってた「もちまる」ちゃんに会えました！猫界の王！今年イチ幸せかも！是非見てください！\n高評価&チャンネル登録もお願いします！！\nhttp://www.youtube.com/channel/UCGlWnxRgmii2-InQLp8HmiA?sub_confirmation=1\n\n中川翔子プロデュースブランド「mmts」\nhttps://www.beams.co.jp/mmts/\n\nオフィシャルファンクラブ「ギザぴんく！」\nhttps://gizapink.shokotan.jp/\n\nTwitter\nhttps://twitter.com/shoko55mmts\n\nInstagram\nhttps://www.instagram.com/shoko55mmts/\n\n1時間で「ジャンプ歴代ヒーロー」を何キャラ描けるか！？\nhttps://youtu.be/F8EQlHaWa-0\n\n【初公開】自宅のヤバい部屋を見せます…。\nhttps://youtu.be/k_om0KWlTHo\n\n撮影中にトラブルが発生しました…\nhttps://youtu.be/rAJNAdAMA1I\n\nマジでしんどいです…\nhttps://youtu.be/HrpETjqgveQ\n\n話題の16時間「オートファジーダイエット」は本当に太らないのか？\nhttps://youtu.be/L99As5D2710\n\nこんな恥ずかしいポーズするの！？マジでキツい…\nhttps://youtu.be/YOSoXlE-GBQ\n\n【悲報】メルカリでグッズが売られてたんだけどっ！\nhttps://youtu.be/GnJa0LD4hv4\n\n【エガフェス】本番がカオス過ぎて「あたおか」でした…\nhttps://youtu.be/eTgu9O4Qvdg\n\nいきなり自宅に北斗さん来た！\nhttps://youtu.be/YqlJ8fhEdew\n\n【ひとりホテル】超高級ホテルに一人で泊まってみました！\nhttps://youtu.be/yjfqkvOnprU\n\n制服ルーズソックスのガン黒ギャルになりました。【平成ギャル】\nhttps://youtu.be/sRW-wMmmCCo\n\n#猫\n#ねこ\n#コラボ",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wFg4n2H38gw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wFg4n2H38gw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wFg4n2H38gw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/wFg4n2H38gw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/wFg4n2H38gw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "中川翔子の「ヲ」",
+				"tags": [
+					"中川翔子",
+					"しょこたん",
+					"ねこ",
+					"猫",
+					"cat",
+					"動物",
+					"家族",
+					"友達",
+					"恋人",
+					"ペット",
+					"pet",
+					"familly",
+					"cats",
+					"コラボ"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "念願だった「もちまる」ちゃんに会えました！",
+					"description": "【もちまるちゃんの動画】\n■しょこたんに誕生日をお祝いしてもらった猫が大喜びでこうなりました笑\nhttps://youtu.be/ngeZ4PuJOHI\n\n■もちまる様の部屋\nhttps://youtube.com/c/%E3%82%82%E3%81%A1%E6%A7%98%E3%81%AE%E9%83%A8%E5%B1%8B\n\n念願のコラボ！ずっと会いたいと思ってた「もちまる」ちゃんに会えました！猫界の王！今年イチ幸せかも！是非見てください！\n高評価&チャンネル登録もお願いします！！\nhttp://www.youtube.com/channel/UCGlWnxRgmii2-InQLp8HmiA?sub_confirmation=1\n\n中川翔子プロデュースブランド「mmts」\nhttps://www.beams.co.jp/mmts/\n\nオフィシャルファンクラブ「ギザぴんく！」\nhttps://gizapink.shokotan.jp/\n\nTwitter\nhttps://twitter.com/shoko55mmts\n\nInstagram\nhttps://www.instagram.com/shoko55mmts/\n\n1時間で「ジャンプ歴代ヒーロー」を何キャラ描けるか！？\nhttps://youtu.be/F8EQlHaWa-0\n\n【初公開】自宅のヤバい部屋を見せます…。\nhttps://youtu.be/k_om0KWlTHo\n\n撮影中にトラブルが発生しました…\nhttps://youtu.be/rAJNAdAMA1I\n\nマジでしんどいです…\nhttps://youtu.be/HrpETjqgveQ\n\n話題の16時間「オートファジーダイエット」は本当に太らないのか？\nhttps://youtu.be/L99As5D2710\n\nこんな恥ずかしいポーズするの！？マジでキツい…\nhttps://youtu.be/YOSoXlE-GBQ\n\n【悲報】メルカリでグッズが売られてたんだけどっ！\nhttps://youtu.be/GnJa0LD4hv4\n\n【エガフェス】本番がカオス過ぎて「あたおか」でした…\nhttps://youtu.be/eTgu9O4Qvdg\n\nいきなり自宅に北斗さん来た！\nhttps://youtu.be/YqlJ8fhEdew\n\n【ひとりホテル】超高級ホテルに一人で泊まってみました！\nhttps://youtu.be/yjfqkvOnprU\n\n制服ルーズソックスのガン黒ギャルになりました。【平成ギャル】\nhttps://youtu.be/sRW-wMmmCCo\n\n#猫\n#ねこ\n#コラボ"
+				},
+				"defaultAudioLanguage": "ja"
+			},
+			"contentDetails": {
+				"duration": "PT8M43S",
+				"dimension": "2d",
+				"definition": "hd",
+				"caption": "false",
+				"licensedContent": true,
+				"contentRating": {},
+				"projection": "rectangular"
+			},
+			"statistics": {
+				"viewCount": "315442",
+				"likeCount": "14517",
+				"favoriteCount": "0",
+				"commentCount": "510"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "q-f56NVC5tn5MQev1B0qzAQ3ixQ",
+			"id": "GkV7hc02fpw",
+			"snippet": {
+				"publishedAt": "2022-10-26T11:00:06Z",
+				"channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+				"title": "【ヒカキン死にかける】ダーツで刺さったところのラーメン食べに行く『47都道府県ラーメンダーツの旅』【第1回】",
+				"description": "麺屋 彩未\nhttps://www.menya-saimi.com/\n\n信玄さん\nhttps://tabelog.com/hokkaido/A0101/A010103/1002793/\n\nBan K スキー場\nhttps://www.bankei.co.jp/\n\n白い恋人パーク\nhttps://www.shiroikoibitopark.jp/\n\n◆チャンネル登録はこちら↓\nhttp://www.youtube.com/user/hikakintv?sub_confirmation=1\n\n◆ツイッター\nhttps://twitter.com/hikakin\n\n◆インスタグラム\nhttps://instagram.com/hikakin/\n\n◆TikTok\nhttps://vt.tiktok.com/BTWxUN/\n\n◆ヒカキンゲームズ\nhttp://www.youtube.com/hikakingames\n\n◆ビートボックス動画のHIKAKINチャンネル\nhttp://www.youtube.com/HIKAKIN\n\n◆ラフな動画のHikakinBlog\nhttp://www.youtube.com/hikakinblog\n\n\n◆ヒカキンLINEスタンプはこちら\nhttps://store.line.me/stickershop/product/1022677/ja\n\n\n◆ヒカキンLINE公式アカウント\n●友達登録はこちら↓\nhttp://line.naver.jp/ti/p/%40hikakin\n\n#ラーメン\n#旅\n#ヒカキン",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/GkV7hc02fpw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/GkV7hc02fpw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/GkV7hc02fpw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/GkV7hc02fpw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/GkV7hc02fpw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "HikakinTV",
+				"tags": [
+					"ヒカキン",
+					"ヒカキンtv",
+					"hikakintv",
+					"hikakin",
+					"ひかきん",
+					"ひかきんtv",
+					"ユーチューバー",
+					"YouTube",
+					"YouTuber",
+					"商品紹介",
+					"おもちゃ",
+					"オモチャ",
+					"玩具",
+					"動画",
+					"ビートボックス",
+					"Beatbox",
+					"ボイパ",
+					"ヒューマンビートボックス",
+					"ボイスパーカッション",
+					"レビュー",
+					"ラーメン",
+					"ramen",
+					"旅",
+					"旅行",
+					"北海道",
+					"味噌ラーメン",
+					"みそ",
+					"札幌"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "【ヒカキン死にかける】ダーツで刺さったところのラーメン食べに行く『47都道府県ラーメンダーツの旅』【第1回】",
+					"description": "麺屋 彩未\nhttps://www.menya-saimi.com/\n\n信玄さん\nhttps://tabelog.com/hokkaido/A0101/A010103/1002793/\n\nBan K スキー場\nhttps://www.bankei.co.jp/\n\n白い恋人パーク\nhttps://www.shiroikoibitopark.jp/\n\n◆チャンネル登録はこちら↓\nhttp://www.youtube.com/user/hikakintv?sub_confirmation=1\n\n◆ツイッター\nhttps://twitter.com/hikakin\n\n◆インスタグラム\nhttps://instagram.com/hikakin/\n\n◆TikTok\nhttps://vt.tiktok.com/BTWxUN/\n\n◆ヒカキンゲームズ\nhttp://www.youtube.com/hikakingames\n\n◆ビートボックス動画のHIKAKINチャンネル\nhttp://www.youtube.com/HIKAKIN\n\n◆ラフな動画のHikakinBlog\nhttp://www.youtube.com/hikakinblog\n\n\n◆ヒカキンLINEスタンプはこちら\nhttps://store.line.me/stickershop/product/1022677/ja\n\n\n◆ヒカキンLINE公式アカウント\n●友達登録はこちら↓\nhttp://line.naver.jp/ti/p/%40hikakin\n\n#ラーメン\n#旅\n#ヒカキン"
+				},
+				"defaultAudioLanguage": "ja"
+			},
+			"contentDetails": {
+				"duration": "PT56M14S",
+				"dimension": "2d",
+				"definition": "hd",
+				"caption": "false",
+				"licensedContent": true,
+				"contentRating": {},
+				"projection": "rectangular"
+			},
+			"statistics": {
+				"viewCount": "810330",
+				"likeCount": "35761",
+				"favoriteCount": "0",
+				"commentCount": "2605"
+			}
+		}
+	],
+	"nextPageToken": "CAUQAA",
+	"pageInfo": {
+		"totalResults": 200,
+		"resultsPerPage": 5
+	}
+}
